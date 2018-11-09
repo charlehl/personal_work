@@ -1,0 +1,4 @@
+Does how does pace of play effect player's advanced stats?
+
+1. Get box score of every lakers game with advanced stats
+2. Determine how pace effects stats
